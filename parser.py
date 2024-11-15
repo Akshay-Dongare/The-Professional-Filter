@@ -1,6 +1,8 @@
 ## Script to parse the emails in the dataset
 import pandas as pd
 
+
+
 def get_message(Series: pd.Series):
     result = pd.Series(index=Series.index)
     for row, message in enumerate(Series):

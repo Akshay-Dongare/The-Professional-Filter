@@ -12,7 +12,7 @@
   - `conda activate g6_alda`
 - Install all the libraries from the requirements.txt file
   - `pip install -r requirements.txt`
-- Download the dataset from the link given below and put it in the datasets folder
+- Download the dataset from the link given below and put it (maildir folder) in the `data/raw` folder
   - https://www.cs.cmu.edu/~enron/ (May 7, 2015 Version)
 
 ## Project Plan
