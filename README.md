@@ -16,6 +16,7 @@
   - https://www.cs.cmu.edu/~enron/ (May 7, 2015 Version)
 
 ## Project Plan
+- [ ] Dataset Crawler
 - [ ] Dataset Parsing
 - [ ] Dataset Labelling
 - [ ] Data Cleaning
