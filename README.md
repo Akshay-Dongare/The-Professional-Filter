@@ -19,7 +19,7 @@
 - Then run the `enron_parser.py` to extract features
 
 ## Project Plan
-- [ ] Dataset Crawler
+- [x] Dataset Crawler
 - [ ] Dataset Parsing
 - [ ] Dataset Labelling
 - [ ] Data Cleaning
