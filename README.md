@@ -21,9 +21,9 @@
 ## Project Plan
 - [x] Dataset Crawler
 - [x] Dataset Parsing
-- [ ] Dataset Labelling
-- [ ] Data Cleaning
-- [ ] Data Analysis
+- [x] Dataset Labelling
+- [x] Data Cleaning
+- [x] Data Analysis
 - [ ] Data Visualization
 - [ ] Model Training
 - [ ] Model Evaluation
