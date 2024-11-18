@@ -2,13 +2,6 @@ import os
 import csv
 
 def extract_sent_items_to_csv(dataset_path, output_csv):
-    """
-    Traverses the Enron dataset to extract emails from sent_items folders
-    and writes them to a CSV file.
-    
-    :param dataset_path: Path to the root of the Enron email dataset
-    :param output_csv: Path to the output CSV file
-    """
     # temp list to store email data
     email_data = []
 
@@ -47,7 +40,7 @@ def extract_sent_items_to_csv(dataset_path, output_csv):
     print(f"Data successfully written to {output_csv}")
 
 # source paths
-dataset_path = "./data/raw/maildir"
-output_csv = "./data/crawled/emails.csv"
+dataset_path = "data/raw/maildir/"
+output_csv = "data/crawled/emails.csv"
 
 extract_sent_items_to_csv(dataset_path, output_csv)

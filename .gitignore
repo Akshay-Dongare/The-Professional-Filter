@@ -1,6 +1,6 @@
-# Ignore the data folder
+# Ignore folders
 data/
-
+.DS_Store
 
 
 
