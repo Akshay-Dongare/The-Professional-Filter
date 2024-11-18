@@ -20,7 +20,7 @@
 
 ## Project Plan
 - [x] Dataset Crawler
-- [ ] Dataset Parsing
+- [x] Dataset Parsing
 - [ ] Dataset Labelling
 - [ ] Data Cleaning
 - [ ] Data Analysis
