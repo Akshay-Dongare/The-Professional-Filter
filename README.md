@@ -14,10 +14,13 @@
   - `pip install -r requirements.txt`
 - Download the dataset from the link given below and put it (maildir folder) in the `data/raw` folder
   - https://www.cs.cmu.edu/~enron/ (May 7, 2015 Version)
+- Create an `emails.csv` file in a `data/crawled` folder
+- Next, execute the  `enron_crawler.py` script to generate the crawled dataset
+- Then run the `enron_parser.py` to extract features
 
 ## Project Plan
-- [ ] Dataset Crawler
-- [ ] Dataset Parsing
+- [x] Dataset Crawler
+- [x] Dataset Parsing
 - [ ] Dataset Labelling
 - [ ] Data Cleaning
 - [ ] Data Analysis
