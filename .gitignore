@@ -2,9 +2,8 @@
 data/
 .gitignore
 
-# Ignore the api_keys.json file
+# Ignore the api_keys.json and last_index.txt files
 api_keys.json
-annotated_emails.csv
 last_index.txt
 
 ## Ignore Visual Studio temporary files, build results, and

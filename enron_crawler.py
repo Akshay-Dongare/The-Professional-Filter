@@ -33,7 +33,7 @@ def extract_sent_items_to_csv(dataset_path, output_csv):
     with open(output_csv, 'w', encoding='utf-8', newline='') as csv_file:
         writer = csv.writer(csv_file)
         # Write the header
-        writer.writerow(['Employee', 'EmailContent'])
+        writer.writerow(['Employee', 'message'])
         # Write the email data
         writer.writerows(email_data)
 

@@ -2,3 +2,9 @@ pandas
 kaggle
 guardrails-ai
 groq
+nltk
+tensorflow
+seaborn
+matplotlib
+imbalanced-learn
+gensim
