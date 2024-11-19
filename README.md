@@ -25,6 +25,6 @@
 - [x] Data Cleaning
 - [x] Data Analysis
 - [x] Data Visualization
-- [ ] Model Training
-- [ ] Model Evaluation
-- [ ] Model Testing
+- [x] Model Training
+- [x] Model Evaluation
+- [x] Model Testing
