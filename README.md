@@ -24,7 +24,7 @@
 - [x] Dataset Labelling
 - [x] Data Cleaning
 - [x] Data Analysis
-- [ ] Data Visualization
+- [x] Data Visualization
 - [ ] Model Training
 - [ ] Model Evaluation
 - [ ] Model Testing

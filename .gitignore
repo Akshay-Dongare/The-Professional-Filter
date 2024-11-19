@@ -1,5 +1,6 @@
 # Ignore the emails dataset
-data/raw/enron-email-dataset/emails.csv
+data/
+.gitignore
 
 # Ignore the api_keys.json and last_index.txt files
 api_keys.json
