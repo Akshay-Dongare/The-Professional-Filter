@@ -1,6 +1,7 @@
 # Ignore the emails dataset
 data/
 .gitignore
+
 # Ignore the api_keys.json file
 api_keys.json
 annotated_emails.csv
