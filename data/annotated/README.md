@@ -1,1 +1,1 @@
-# this contains annotated emails
+# This directory contains manually annotated emails
