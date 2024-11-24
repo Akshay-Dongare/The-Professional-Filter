@@ -1,1 +1,1 @@
-## Add / Unzip the crawled or downloaded enron dataset here
+## Add / Unzip the downloaded enron dataset here
