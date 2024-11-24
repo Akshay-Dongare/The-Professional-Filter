@@ -4,7 +4,7 @@ from guardrails import Guard, OnFailAction
 from guardrails.hub import RegexMatch
 from groq import Groq
 
-class EmailAnnotator:
+class GroqClassifier:
     def __init__(self, dataset_path, api_keys_path):
         self.dataset_path = dataset_path
         self.api_keys = self.load_api_keys(api_keys_path)

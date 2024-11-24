@@ -6,5 +6,4 @@ nltk
 tensorflow
 seaborn
 matplotlib
-imbalanced-learn
-gensim
+scikit-learn
