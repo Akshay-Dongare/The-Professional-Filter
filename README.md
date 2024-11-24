@@ -1,3 +1,17 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+![Platform](https://img.shields.io/badge/Platform-Linux%2C%20Windows%2C%20macOS-blue)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://groq.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg"
+    alt="Powered by Groq for fast inference."
+    width="100" 
+  />
+</a>
+</div>
+<br><br>
+
+
 # The Proffessional Filter: Machine Learning Approach to Work Email Detection
 
 ## Group 6
