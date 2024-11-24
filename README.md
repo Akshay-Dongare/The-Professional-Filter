@@ -6,11 +6,11 @@
 1. **_Akshay Ashutosh Dongare_**  
 __Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
 __Unity ID__: adongar  
-__Student ID__: 200600980
+__Student ID__: 200600980  
 __Emails__: [akshayd02@gmail.com](mailto:akshayd02@gmail.com), [adongar@ncsu.edu](mailto:adongar@ncsu.edu)  
 __ORCID__: [0000-0001-6358-6182](https://orcid.org/0000-0001-6358-6182)
 
-2. **_Ayush Bakul Gala_**  
+3. **_Ayush Bakul Gala_**  
 __Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
 __Unity ID__: agala2  
 __Student ID__: 000000000  
