@@ -12,7 +12,7 @@
 <br><br>
 
 
-# The Proffessional Filter: Machine Learning Approach to Work Email Detection
+# The Professional Filter: Machine Learning Approach to Work Email Detection
 
 ## Group 6
 ### Team Members
