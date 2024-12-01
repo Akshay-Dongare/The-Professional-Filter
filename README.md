@@ -37,7 +37,8 @@ __Unity ID__: vskamat
 __Student ID__: 200614269  
 __Email__: [vskamat@ncsu.edu](mailto:vskamat@ncsu.edu)  
 
-
+### Final Project Report
+Final Project Report is located at `./P6_emailClassification_dataAnalysis.pdf`
 
 ## Table of Contents
 - [The Proffessional Filter: Machine Learning Approach to Work Email Detection](#the-proffessional-filter-machine-learning-approach-to-work-email-detection)
