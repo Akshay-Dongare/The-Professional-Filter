@@ -13,12 +13,27 @@
 
 
 # The Professional Filter: Machine Learning Approach to Work Email Detection
-
+## Group 6
 ### Team Members
 
 1. **_Akshay Ashutosh Dongare_**  
+__Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
+__Unity ID__: adongar  
+__Student ID__: 200600980  
+__Emails__: [akshayd02@gmail.com](mailto:akshayd02@gmail.com), [adongar@ncsu.edu](mailto:adongar@ncsu.edu)  
+
 2. **_Ayush Bakul Gala_**  
+__Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
+__Unity ID__: agala2  
+__Student ID__: 200598694  
+__Email__: [agala2@ncsu.edu](mailto:agala2@ncsu.edu)  
+
+
 3. **_Vidhisha Kamat_**  
+__Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
+__Unity ID__: vskamat  
+__Student ID__: 200614269  
+__Email__: [vskamat@ncsu.edu](mailto:vskamat@ncsu.edu)  
 
 
 ### Final Project Report
