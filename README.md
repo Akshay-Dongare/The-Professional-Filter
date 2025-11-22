@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <a href="https://groq.com" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg"
+    src="https://store.crowdin.com/_next/image?url=https%3A%2F%2Fdeveloper.app.crowdin.net%2Fassets%2Fc66ea620-1694-465c-8f9e-277a5b578e6b%3Fwidth%3D192%26format%3Dwebp&w=384&q=75"
     alt="Powered by Groq for fast inference."
-    width="100" 
+    width="50" 
   />
 </a>
 </div>
@@ -18,23 +18,12 @@
 
 1. **_Akshay Ashutosh Dongare_**  
 __Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
-__Unity ID__: adongar  
-__Student ID__: 200600980  
-__Emails__: [akshayd02@gmail.com](mailto:akshayd02@gmail.com), [adongar@ncsu.edu](mailto:adongar@ncsu.edu)  
 
 2. **_Ayush Bakul Gala_**  
 __Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
-__Unity ID__: agala2  
-__Student ID__: 200598694  
-__Email__: [agala2@ncsu.edu](mailto:agala2@ncsu.edu)  
-
 
 3. **_Vidhisha Kamat_**  
 __Affiliation__: North Carolina State University, Raleigh, North Carolina, USA  
-__Unity ID__: vskamat  
-__Student ID__: 200614269  
-__Email__: [vskamat@ncsu.edu](mailto:vskamat@ncsu.edu)  
-
 
 ### Final Project Report
 Final Project Report is located at `./P6_emailClassification_dataAnalysis.pdf`
